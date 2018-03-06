@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimatorToPng", "AnimatorToPng.csproj", "{E497F287-6FC2-1F81-DF20-AA052D38EA3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E497F287-6FC2-1F81-DF20-AA052D38EA3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E497F287-6FC2-1F81-DF20-AA052D38EA3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E497F287-6FC2-1F81-DF20-AA052D38EA3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E497F287-6FC2-1F81-DF20-AA052D38EA3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
